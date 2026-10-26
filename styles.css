@@ -19,6 +19,15 @@ body {
  width:80%;
 height:auto;
 }
+ h1 {
+            font-size: 64px;
+            margin: 10px 0;
+        }
+        p {
+            font-size: 40px;
+            margin: 10px 0;
+            line-height: 1.2;
+		}
  button {
 padding: 25px;
 margin-top: 15px;
